@@ -1,2 +1,7 @@
-# scripting-for-cybersecurity
- practice of writing short, focused programs (scripts) to automate repetitive tasks, parse data, and accelerate security operations
+# Scripting for Cybersecurity
+
+This repository contains my practical work for the Scripting for Cybersecurity module.
+
+## Labs
+
+- Lab 01 - Development Environment
